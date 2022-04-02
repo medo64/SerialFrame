@@ -8,7 +8,7 @@
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND              |
 |  1 | J JST PH Vertical (5w)                    | J1      | 455-1707-ND                |
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
-|  1 | Q P-MOSFET DMP2004K-7 (SOT23)             | Q1      | DMP2004KDICT-ND            |
+|  1 | Q P-MOSFET DMP3099L-13 (SOT23)            | Q1      | DMP3099L-13DICT-ND         |
 |  2 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND        |
 |  2 | R 5.1K 0.125W (0805)                      | R3-R4   | RMCF0805FT5K10CT-ND        |
 |  1 | U MCP2221A (SOIC-14)                      | U1      | MCP2221A-I/SL-ND           |
