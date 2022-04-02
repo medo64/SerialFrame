@@ -5,6 +5,7 @@
 |  3 | C 100nF X7R 16V (0805)                    | C1-C3   | 478-5311-1-ND              |
 |  1 | C 470nF X7R 16V (0805)                    | C4      | 1276-1199-1-ND             |
 |  2 | C 10uF X5R 16V (0805)                     | C5-C6   | 1276-1096-1-ND             |
+|  1 | D Schottky CUS08F30,H3F (SOD323)          | D1      | CUS08F30H3FCT-ND           |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND              |
 |  1 | J JST PH Vertical (5w)                    | J1      | 455-1707-ND                |
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
@@ -36,4 +37,7 @@ the card into a non-insulated serial interface by soldering 0 Ω resistor on 
 bottom (normally unpopulated) and omiting the following components:
 * C2, C3
 * C5, C6
+* D1
+* DS2
+* R2
 * U2
