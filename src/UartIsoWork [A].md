@@ -1,4 +1,4 @@
-### SerialFrame Parts
+### UartIsoWork Parts
 
 |  # | Part                                      | RefDes  | Preferred Part Number      |
 |---:|-------------------------------------------|---------|----------------------------|
