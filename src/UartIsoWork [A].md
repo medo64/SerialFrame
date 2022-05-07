@@ -10,7 +10,7 @@
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
 |  1 | Q P-MOSFET DMP3099L-13 (SOT23)            | Q1      | DMP3099L-13DICT-ND         |
 |  2 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND        |
-|  2 | R 5.1K 0.125W (0805)                      | R3-R4   | RMCF0805FT5K10CT-ND        |
+|  1 | R 5.1K 0.125W (0805)                      | R3      | RMCF0805FT5K10CT-ND        |
 |  1 | U MCP2221A (SOIC-14)                      | U1      | MCP2221A-I/SL-ND           |
 |  1 | U SI8421AB-D-IS (SOIC-8)                  | U2      | 336-1755-5-ND              |
 
@@ -33,8 +33,8 @@
 ##### Non-Insulated Interface
 
 If one doesn't need insulation (or you really hate your laptop), you can convert
-the card into a non-insulated serial interface by soldering 0 Ω resistor on the
-bottom (normally unpopulated) and omiting the following components:
+the card into a non-insulated serial TTL 5V interface by soldering 0 Ω resistor
+on the bottom (normally unpopulated) and omiting the following components:
 * C2, C3
 * C5, C6
 * DS2
