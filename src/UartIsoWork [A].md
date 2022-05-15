@@ -12,7 +12,7 @@
 |  2 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND        |
 |  1 | R 5.1K 0.125W (0805)                      | R3      | RMCF0805FT5K10CT-ND        |
 |  1 | U MCP2221 (SOIC-14)                       | U1      | MCP2221-I/SL-ND            |
-|  1 | U SI8421AB-D-IS (SOIC-8)                  | U2      | 336-1755-5-ND              |
+|  1 | U ADUM1281ARZ (SOIC-8)                    | U2      | ADUM1281ARZ-ND             |
 
 
 #### Board Size
