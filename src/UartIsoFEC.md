@@ -7,6 +7,7 @@
 |  7 | C 100nF X7R 16V (0805)                            | C4-C10  | 478-5311-1-ND               |
 |  1 | C 4.7uF X5R 16V (0805)                            | C11     | 1276-1244-1-ND              |
 |  2 | C 10uF X5R 16V (0805)                             | C12-C13 | 1276-1096-1-ND              |
+|  1 | D TVS 5V SM05T1G (SOT23-3)                        | D1      | SM05T1GOSCT-ND              |
 |  2 | DS LED (0805)                                     | DS1-DS2 | 475-1415-1-ND               |
 |  1 | J JST XH Vertical (3w)                            | J1      | 455-2248-ND                 |
 |  1 | L Ferrite 600R@100Mhz                             | L1      | 240-2390-1-ND               |
@@ -45,3 +46,16 @@
 |----------|-------:|
 | Voltage  |    5 V |
 | Current  | 100 mA |
+
+
+#### Jumpers
+
+##### 3V3
+
+This jumper has to be bridged for operation in 3.3V. If this jumper is bridged,
+5V jumper MUST NOT be bridged too.
+
+##### 5V
+
+This jumper has to be bridged for operation in 5V. If this jumper is bridged,
+3.3V jumper MUST NOT be bridged too.
