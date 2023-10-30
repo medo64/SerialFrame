@@ -68,7 +68,7 @@
       <CBUS>
         <SlowSlew>false</SlowSlew>
         <Schmitt>false</Schmitt>
-        <Drive>4mA</Drive>
+        <Drive>16mA</Drive>
       </CBUS>
     </IO_Pins>
   </Hardware_Specific>
